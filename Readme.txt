@@ -1,1 +1,1 @@
-Everyday Review One Chapter of Data Science Chapter
+Review of Data Science
